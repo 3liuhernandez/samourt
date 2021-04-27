@@ -2,8 +2,8 @@
 <nav id="navbarTop" class="navbar navbar-expand-lg navbar-dark navbar-custom" style="background-color: #081c15;">
     <div class="container">
         <a class="navbar-brand" href=" {{ url('/') }}">
-            <img width="100px" height="100px" src="{{ asset('images/favicon.webp')}}" alt="SAM OUR THE BOX LOGO" title="SAM OUR THE BOX LOGO">
-            Briefing | The Box
+            <img width="100px" height="100px" src="{{ asset('images/logo_blanco.png')}}" alt="SAM OUR THE BOX LOGO" title="SAM OUR THE BOX LOGO">
+            The Box
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
